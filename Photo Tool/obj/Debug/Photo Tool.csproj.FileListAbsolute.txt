@@ -1,0 +1,27 @@
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe.config
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csprojResolveAssemblyReference.cache
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Form1.resources
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Properties.Resources.resources
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csproj.GenerateResource.Cache
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\bin\Debug\Photo Tool.pdb
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.exe
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.pdb
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe.config
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\obj\Debug\Photo Tool.exe
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\obj\Debug\Photo Tool.pdb
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\bin\Debug\Photo Tool.pdb
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csprojResolveAssemblyReference.cache
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Form1.resources
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Properties.Resources.resources
+C:\Users\TGDD-HUE\Documents\GitHub\photo-tool-htxthuong-dthanh\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csproj.GenerateResource.Cache
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe.config
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\obj\Debug\Photo Tool.exe
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\obj\Debug\Photo Tool.pdb
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\bin\Debug\Photo Tool.pdb
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csprojResolveAssemblyReference.cache
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Form1.resources
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Properties.Resources.resources
+E:\Bai tap cac mon hoc\BT tập lam LTNC\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csproj.GenerateResource.Cache
